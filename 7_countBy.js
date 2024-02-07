@@ -1,3 +1,7 @@
+// Hari ke-7
+// count by
+
+
 // function countBy(x, n) {
 //     let z = [];
 

@@ -1,3 +1,7 @@
+// Hari ke-8
+// Count sheep
+
+
 var countSheep = function (num){
     // let res = '';
 

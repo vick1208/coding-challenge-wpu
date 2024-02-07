@@ -1,3 +1,8 @@
+
+// Hari ke-4
+// Smash Words  
+
+
 function smash(words) {
     return words.join(' ');
 }

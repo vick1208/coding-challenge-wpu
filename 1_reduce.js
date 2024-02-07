@@ -1,3 +1,10 @@
+
+// Hari ke-1
+// grow and reduce
+ 
+
+
+
 // function grow(x) {
 //     let result = x[0];
 //     for (let i = 1; i < x.length; i++) {

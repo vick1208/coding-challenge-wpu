@@ -1,3 +1,14 @@
+ 
+// Hari ke-2
+// reversed sequence
+
+
+
+
+
+
+
+
 // const revSeq = (n) => { 
 
 //     const arr = [];

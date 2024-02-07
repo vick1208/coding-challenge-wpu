@@ -1,3 +1,6 @@
+// Hari ke-6
+// DNA to RNA
+
 // function DNAtoRNA(dna) {
 
 //     let rna = '';
