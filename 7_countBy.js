@@ -1,5 +1,5 @@
-// Hari ke-7
-// count by
+// 7/366
+// Count By
 
 
 // function countBy(x, n) {

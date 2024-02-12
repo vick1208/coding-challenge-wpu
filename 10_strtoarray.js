@@ -1,5 +1,4 @@
-
-// Hari ke-10
+// 10/366
 // String to Array
 
 

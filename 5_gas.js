@@ -1,4 +1,4 @@
-// Hari ke-5
+// 5/366
 // How many gas?
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 

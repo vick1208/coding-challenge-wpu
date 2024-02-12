@@ -1,5 +1,4 @@
-
-// Hari ke-9
+// 9/366
 // max and min values of a list
 
 

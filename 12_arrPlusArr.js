@@ -1,4 +1,4 @@
-// Day 12
+// 12/366
 // Array plus array
 
 

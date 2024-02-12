@@ -1,5 +1,4 @@
- 
-// Hari ke-2
+ // 2/366
 // reversed sequence
 
 

@@ -1,5 +1,4 @@
-
-// Hari ke-3
+// 3/366
 // will he survive?
 
 

@@ -1,4 +1,4 @@
-// Hari ke-8
+// 8/366
 // Count sheep
 
 

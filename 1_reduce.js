@@ -1,5 +1,4 @@
-
-// Hari ke-1
+// 1/366
 // grow and reduce
  
 

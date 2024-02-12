@@ -1,4 +1,4 @@
-// Hari ke-6
+// 6/366
 // DNA to RNA
 
 // function DNAtoRNA(dna) {
